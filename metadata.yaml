@@ -1,0 +1,40 @@
+_repo: Austin-and-His-Friends_16099
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balfour, Frederic Henry
+    alias: Dering, Ross George
+    gutenberg_agent_id: '6484'
+    url: http://www.gutenberg.org/2009/agents/6484
+description: The old-fashioned ghost-story was always terrifying and ghastly; something
+  that made people afraid to go to bed, or to look over their shoulders, or to enter
+  a room in the dark. It dealt with apparitions in a white sheet, and clanking chains,
+  and dreadful faces that peered out from behind the window curtains in a haunted
+  chamber. And the more blood-curdling it was, the more keenly people enjoyed it-until
+  they were left alone, and then they were apt to wish that they had been reading
+  "Robinson Crusoe" or Alison's "History of Europe" instead. Now the present book
+  embodies an attempt to write a cheerful ghost-story; a story in which the ghostly
+  element is of a friendly and pleasant character, and sheds a sense of happiness
+  and sunshine over the entire life of the ghost-seer. Whether the author has succeeded
+  in doing so will be for his readers to decide. It is only necessary to add that
+  he has not introduced a single supernormal incident that has not occurred and been
+  authenticated in the recorded experiences of persons lately or still alive.
+gutenberg_issued: '2005-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Apparitions -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'People with disabilities -- Fiction'
+- !lcsh 'Aunts -- Fiction'
+title: Austin and His Friends
+url: http://www.gutenberg.org/ebooks/16099
